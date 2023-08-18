@@ -18,8 +18,8 @@ filename: index.md
 **Zoom**: See Slack or Invite
 
 * July 17 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Good_Data_Practices.pptx)
-* July 24 - 10:00-12:00 [Slides - Coming Soon]
-* July 31 - 10:00-12:00 [Slides - Coming Soon]
+* July 24 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/CollaborationToolsCodeManagement.pptx)
+* July 31 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Good_Enough_Software.pptx)
 
 # Coding Circles
 
