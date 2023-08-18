@@ -59,7 +59,7 @@ These short tutorials will be published Wednesday
 
 * July 19  [\[Containers\]](https://github.com/UO-Data-Science/netneuro-docker/tree/main)
 * July 26  [\[Pull Requests\]](https://github.com/UO-Data-Science/netneuro-resources)
-* August 2 [\[Script Arguments]\](https://github.com/UO-Data-Science/netneuro-arguments)
+* August 2 [\[Script Arguments\]](https://github.com/UO-Data-Science/netneuro-arguments)
 
 
 
