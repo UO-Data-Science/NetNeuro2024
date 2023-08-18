@@ -6,9 +6,35 @@ filename: index.md
 ***
 # NetNeuro Data Science Summer 2023
 ***
+# Analysis Depth/Machine Learning
+***
+# Lectures
 
+**Hybrid**
+**Room**: Pacific Hall [Room 204](https://map.uoregon.edu/e874ae0dd)
+**Zoom**: See Slack or Invite
 
+* September 5 - 10:00-12:00 : **Note this is a Tuesday** 
+* September 11 - 10:00-12:00
+* September 18 - 10:00-12:00
 
+# Coding Circles
+
+* September 6 - 9:00-12:00 : **Note this is a Wednesday**
+* September 12 - 9:00-12:00 
+* September 19  - 9:00-12:00
+
+# Programming Powerups
+
+These short tutorials will be published Thursday/Wednesday
+
+* Sept 7 - Coming soon
+* Sept 13  - Coming soon
+* Sept 20 - Coming soon 
+
+***
+# Good Data/Code Practices
+***
 
 
 # Lectures
@@ -32,8 +58,8 @@ filename: index.md
 These short tutorials will be published Wednesday
 
 * July 19  [\[Containers\]](https://github.com/UO-Data-Science/netneuro-docker/tree/main)
-* July 26  [Coming Soon]
-* August 2 [Coming Soon]
+* July 26  [\[Pull Requests\]](https://github.com/UO-Data-Science/netneuro-resources)
+* August 2 [\[Script Arguments]\](https://github.com/UO-Data-Science/netneuro-arguments)
 
 
 
