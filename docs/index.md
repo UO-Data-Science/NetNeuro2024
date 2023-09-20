@@ -14,9 +14,9 @@ filename: index.md
 **Room**: Pacific Hall [Room 204](https://map.uoregon.edu/e874ae0dd)
 **Zoom**: See Slack or Invite
 
-* September 5 - 10:00-12:00 : **Note this is a Tuesday** 
-* September 11 - 10:00-12:00
-* September 18 - 10:00-12:00
+* September 5 - 10:00-12:00 : [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/What%20is%20ML.pptx) **Note this is a Tuesday** 
+* September 11 - 10:00-12:00: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/ml_data_practices.pptx)
+* September 18 - 10:00-12:00: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Unsupervised%20Learning.pptx)
 
 # Coding Circles
 
@@ -28,9 +28,9 @@ filename: index.md
 
 These short tutorials will be published Thursday/Wednesday
 
-* Sept 7 - Coming soon
-* Sept 13  - Coming soon
-* Sept 20 - Coming soon 
+* Sept 7 - [R Intro](https://github.com/UO-Data-Science/netneuro-R)
+* Sept 13  - [R Supervised Learning](https://github.com/UO-Data-Science/netneuro-R/blob/main/Classification/Classification.md) 
+* Sept 20 - [R Un-supervised Learning](https://github.com/UO-Data-Science/netneuro-R/blob/main/Unsupervised/Unsupervised.md)
 
 ***
 # Good Data/Code Practices
