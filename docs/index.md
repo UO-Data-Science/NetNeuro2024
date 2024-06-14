@@ -1,10 +1,10 @@
 ---
-title: NetNeuro DSS 2023
+title: NetNeuro DSS 2024
 layout: main
 filename: index.md
 ---
 ***
-# NetNeuro Data Science Summer 2023
+# NetNeuro Data Science Summer 2024
 ***
 # Analysis Depth/Machine Learning
 ***
@@ -14,9 +14,9 @@ filename: index.md
 **Room**: Pacific Hall [Room 204](https://map.uoregon.edu/e874ae0dd)
 **Zoom**: See Slack or Invite
 
-* September 5 - 10:00-12:00 : [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/What%20is%20ML.pptx) **Note this is a Tuesday** 
-* September 11 - 10:00-12:00: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/ml_data_practices.pptx)
-* September 18 - 10:00-12:00: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Unsupervised%20Learning.pptx)
+* September 5 - 10:00-12:00 : [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/What%20is%20ML.pptx) **Note this is a Tuesday** 
+* September 11 - 10:00-12:00: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/ml_data_practices.pptx)
+* September 18 - 10:00-12:00: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/Unsupervised%20Learning.pptx)
 
 # Coding Circles
 
@@ -43,9 +43,9 @@ These short tutorials will be published Thursday/Wednesday
 **Room**: Pacific Hall [Room 204](https://map.uoregon.edu/e874ae0dd)
 **Zoom**: See Slack or Invite
 
-* July 17 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Good_Data_Practices.pptx)
-* July 24 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/CollaborationToolsCodeManagement.pptx)
-* July 31 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Good_Enough_Software.pptx)
+* July 17 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/Good_Data_Practices.pptx)
+* July 24 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/CollaborationToolsCodeManagement.pptx)
+* July 31 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/Good_Enough_Software.pptx)
 
 # Coding Circles
 
