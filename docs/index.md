@@ -30,7 +30,6 @@ filename: index.md
 * [\[Pull Requests\]](https://github.com/UO-Data-Science/netneuro-resources)
 * [\[Script Arguments\]](https://github.com/UO-Data-Science/netneuro-arguments)
 * [\[Containers\]](https://github.com/UO-Data-Science/netneuro-docker/tree/main)
-
 * [\[R Intro\]](https://github.com/UO-Data-Science/netneuro-R)
 * [\[R Supervised Learning\]](https://github.com/UO-Data-Science/netneuro-R/blob/main/Classification/Classification.md) 
 * [\[R Un-supervised Learning\]](https://github.com/UO-Data-Science/netneuro-R/blob/main/Unsupervised/Unsupervised.md)
@@ -55,7 +54,7 @@ filename: index.md
 **Room**: Pacific Hall [Room 204](https://map.uoregon.edu/e874ae0dd)
 **Zoom**: See Slack or Invite
 
-* TBD: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/What%20is%20ML.pptx) **Note this is a Tuesday** 
+* TBD: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/What%20is%20ML.pptx)
 * TBD: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/ml_data_practices.pptx)
 * TBD: [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2024/raw/main/docs/slides/Unsupervised%20Learning.pptx)
 
