@@ -33,7 +33,8 @@ filename: index.md
 * [\[R Intro\]](https://github.com/UO-Data-Science/netneuro-R)
 * [\[R Supervised Learning\]](https://github.com/UO-Data-Science/netneuro-R/blob/main/Classification/Classification.md) 
 * [\[R Un-supervised Learning\]](https://github.com/UO-Data-Science/netneuro-R/blob/main/Unsupervised/Unsupervised.md)
-
+* [\[R Package Manager\]](https://github.com/UO-Data-Science/netneuro-Rpackagemangers)
+  
 **Software Carpentry Material**
 
 [(https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
